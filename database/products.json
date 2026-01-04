@@ -7,5 +7,14 @@
     "image": "https://raw.githubusercontent.com/1082012/TzyTech/main/database/assets/STEM-1767540722347_img.png?token=BKYA6QVG7SYQ5P5XKVXX4F3JLKEDA",
     "filePath": "database/assets/STEM-1767540722347_file.zip",
     "date": "2026-01-04T15:32:08.051Z"
+  },
+  {
+    "id": "STEM-1767541274567",
+    "name": "Nama Kamu",
+    "price": 500000,
+    "description": "Gaada",
+    "image": "https://raw.githubusercontent.com/1082012/TzyTech/main/database/assets/STEM-1767541274567_img.png?token=BKYA6QW644RMULMHAKUS2QDJLKFFS",
+    "filePath": "database/assets/STEM-1767541274567_file.zip",
+    "date": "2026-01-04T15:41:19.373Z"
   }
 ]
