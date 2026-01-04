@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "STEM-1767540722347",
+    "name": "Nama Contoh",
+    "price": 1000000,
+    "description": "Gaada",
+    "image": "https://raw.githubusercontent.com/1082012/TzyTech/main/database/assets/STEM-1767540722347_img.png?token=BKYA6QVG7SYQ5P5XKVXX4F3JLKEDA",
+    "filePath": "database/assets/STEM-1767540722347_file.zip",
+    "date": "2026-01-04T15:32:08.051Z"
+  }
+]
