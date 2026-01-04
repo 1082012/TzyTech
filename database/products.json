@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "STEM-1767538613670",
+    "name": "Pp",
+    "price": 500,
+    "image": "https://raw.githubusercontent.com/1082012/TzyTech/main/database/assets/STEM-1767538613670_img.png?token=BKYA6QSHSUHO3VYQCR5FK5LJLJ77I",
+    "filePath": "database/assets/STEM-1767538613670_file.zip",
+    "date": "2026-01-04T14:56:58.796Z"
+  }
+]
