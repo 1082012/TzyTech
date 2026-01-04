@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "GZ-4400",
+    "name": "S",
+    "price": 5000,
+    "category": "F",
+    "desc": "Gaada",
+    "image": "https://raw.githubusercontent.com/1082012/TzyTech/main/uploads/thumb_1767542740135_QRIS-6Hvc9EMY45oL2jYREhvR.png",
+    "filePath": "https://raw.githubusercontent.com/1082012/TzyTech/main/uploads/asset_1767542741459_Api_Bener.zip",
+    "date": "2026-01-04T16:05:44.400Z"
+  }
+]
